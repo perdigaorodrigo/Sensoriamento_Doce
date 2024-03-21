@@ -22,7 +22,7 @@ with pd.ExcelWriter(r"C:\Users\rodri\Desktop\2023\01012023-31122023_Turbidez.xls
     for i in range(len(stations)):
         lista[i].to_excel(writer, sheet_name=stations[i])
 
-
+print ("Teste")
 
 
    
