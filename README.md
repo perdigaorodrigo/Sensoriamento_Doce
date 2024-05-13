@@ -4,6 +4,7 @@ Pesquisa desenvolvida para monitoramento da qualidade da água do rio Doce por m
 ### Equipe de Desenvolvimento 
 - Caio Mello
 - Camila Coelho
+- Caroline Salomão 
 - Daniel Salim
 - Jéssica Fontoura
 - Rodrigo Perdigão 
@@ -11,7 +12,7 @@ Pesquisa desenvolvida para monitoramento da qualidade da água do rio Doce por m
 
 ### Demandas Vigentes
 
-1. Filtragem de Nuvens (Daniel Salim)
+1. Filtragem de Nuvens (Caroline)
 > A ser realizada tanto com filtro automática de nuvens (cloud cover), como por meio de detecção de pixel de nuvem;
 2. Ajuste de Janela de Pixels (Caio Mello)
 > A ser realizado por meio de avaliação de largura da calha fluvial, alinhamento do ponto na seção transversal do rio e ajuste de algoritmo;
