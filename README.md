@@ -22,7 +22,7 @@ Pesquisa desenvolvida para monitoramento da qualidade da água do rio Doce por m
 - Avaliação espaço-temporal de agrupamento dos dados (Rodrigo/Carol) -> Apenas depois de finalização de tratamento de falhas. 
 
 ### Demandas Superadas
-- Formatação e organilização de dados automáticos;
+- Formatação e organização de dados automáticos;
 - Ajuste de Bug com falha na hora (Rodrigo Perdigão)
 - Fornecimento de Dados Grupo I
 
